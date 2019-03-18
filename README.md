@@ -17,7 +17,7 @@
 Provides meaning and intent to web pages. Assist in communication with browsers, search engines and fellow developers. Examples are (nav, section, article, main, header). They give proper meaning to different sections in HTML documents and no longer depend on multiple and generic divs that add confusion and lead to time consuming troubleshooting.
 
 ### Semantic HTML5
-We used [this demo]() to show the use of semantic HTML elements 
+We used [this demo](https://github.com/ramsestrejo/W3D1-Mar18) to show the use of semantic HTML elements 
 
 ## 3. Block vs inline Elements
 Block elements 'block' the whole row of where they are in the browser , pushing any neighbouring elements down.
